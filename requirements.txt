@@ -1,0 +1,4 @@
+Django==1.11.6
+-e git://github.com/viewflow/django-material.git@efc91716f10da29d2c253a95a93074c3a32939b5#egg=django_material
+djangorestframework==3.7.1
+pytz==2017.2
